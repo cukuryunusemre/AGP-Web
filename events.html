@@ -28,31 +28,69 @@
     </div>
 </nav>
 
-<!-- Etkinlik Listesi -->
+<!-- Sayfa Başlığı -->
+<header class="text-white text-center p-5 bg-primary">
+    <h1>Etkinliklerimiz</h1>
+    <p>Devamlı olarak etkinlikler düzenleyerek aktif olmaya çalışıyoruz.</p>
+</header>
+
+<!-- Yaklaşan Etkinlikler -->
 <section class="container mt-5">
     <h2 class="text-center">Yaklaşan Etkinlikler</h2>
-    <ul class="list-group">
-        <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">📅 10 Mart 2025</h5>
-              <p class="card-text">Sürdürülebilir Kalkınma Zirvesi</p>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="event-card">
+                <h5>📅 10 Mart 2025</h5>
+                <p>Sürdürülebilir Kalkınma Zirvesi</p>
             </div>
-          </div>
+        </div>
+        <div class="col-md-4">
+            <div class="event-card">
+                <h5>📅 25 Nisan 2025</h5>
+                <p>Genç Liderler Konferansı</p>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="event-card">
+                <h5>📅 15 Mayıs 2025</h5>
+                <p>Gönüllü Çevre Temizliği Kampanyası</p>
+            </div>
+        </div>
+    </div>
+</section>
 
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">📅 10 Mart 2025</h5>
-              <p class="card-text">📅 25 Nisan 2025 - Genç Liderler Konferansı</p>
+<!-- Geçmiş Etkinlikler -->
+<section class="container mt-5">
+    <h2 class="text-center">Geçmiş Etkinlikler</h2>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="past-event-card">
+                <img src="assets/events/about-1.jpg" class="img-fluid rounded" alt="Geçmiş Etkinlik 1">
+                <div class="past-event-info">
+                    <h5>Gençlik Fest</h5>
+                    <p>Gençlerle eğlendik</p>
+                </div>
             </div>
-          </div>
-
-          <div class="card">
-            <div class="card-body">
-              <h5 class="card-title">📅 10 Mart 2025</h5>
-              <p class="card-text">📅 15 Mayıs 2025 - Gönüllü Çevre Temizliği Kampanyası</p>
+        </div>
+        <div class="col-md-4">
+            <div class="past-event-card">
+                <img src="assets/events/about-2.jpg" class="img-fluid rounded" alt="Geçmiş Etkinlik 2">
+                <div class="past-event-info">
+                    <h5>Hayalini Yaz</h5>
+                    <p>Hayaller Ağaca Dönüştü.</p>
+                </div>
             </div>
-          </div>
-    </ul>
+        </div>
+        <div class="col-md-4">
+            <div class="past-event-card">
+                <img src="assets/events/about-3.jpg" class="img-fluid rounded" alt="Geçmiş Etkinlik 3">
+                <div class="past-event-info">
+                    <h5>Gönüllü Eğitim Programı</h5>
+                    <p>Gençler geleceğe hazırlandı.</p>
+                </div>
+            </div>
+        </div>
+    </div>
 </section>
 
 <!-- Footer -->
