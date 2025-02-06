@@ -1,0 +1,20 @@
+{
+    "navbar": {
+        "home": "Home",
+        "about": "About Us",
+        "events": "Events",
+        "contact": "Contact",
+        "sdg": "SDG"
+    },
+    "hero": {
+        "title": "For Youth, For the Future!",
+        "subtitle": "We are an organization that raises awareness and mobilizes young people towards Sustainable Development Goals.",
+        "button": "Learn More"
+    },
+    "footer": {
+        "rights": "© 2025 Ataşehir Youth Parliament. All Rights Reserved."
+    },
+    "about": {
+        "title": "About Us"
+    }
+}

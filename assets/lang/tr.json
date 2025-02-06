@@ -1,0 +1,21 @@
+{
+    "navbar": {
+        "home": "Ana Sayfa",
+        "about": "Hakkımızda",
+        "events": "Etkinlikler",
+        "contact": "İletişim",
+        "sdg": "SDG"
+    },
+    "hero": {
+        "title": "Gençlik İçin, Gelecek İçin!",
+        "subtitle": "Sürdürülebilir Kalkınma Hedefleri doğrultusunda gençleri bilinçlendiren ve harekete geçiren bir oluşumuz.",
+        "button": "Bizi Tanıyın"
+    },
+    "footer": {
+        "rights": "© 2025 Ataşehir Gençlik Parlamentosu. Tüm Hakları Saklıdır."
+    },
+
+    "about": {
+        "title": "Hakkımızda"
+    }
+}

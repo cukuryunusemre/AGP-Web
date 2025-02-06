@@ -1,0 +1,20 @@
+{
+    "navbar": {
+        "home": "Startseite",
+        "about": "Über uns",
+        "events": "Veranstaltungen",
+        "contact": "Kontakt",
+        "sdg": "Nachhaltige Entwicklungsziele"
+    },
+    "hero": {
+        "title": "Für die Jugend, für die Zukunft!",
+        "subtitle": "Wir sind eine Organisation, die junge Menschen für die nachhaltigen Entwicklungsziele sensibilisiert und mobilisiert.",
+        "button": "Mehr erfahren"
+    },
+    "footer": {
+        "rights": "© 2025 Jugendparlament Ataşehir. Alle Rechte vorbehalten."
+    },
+    "about": {
+        "title": "über uns"
+    }
+}
